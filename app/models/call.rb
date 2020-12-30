@@ -1,0 +1,5 @@
+class Call < ApplicationRecord
+  TWILIO_SID = 'AC374132137e4aaf739389321cdf60c670'
+  AUTH_TOKEN = 'AC374132137e4aaf739389321cdf60c670'
+  CALL_NUM = '+1 855 925 3672'
+end
